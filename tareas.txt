@@ -1,0 +1,4 @@
+Examen:false
+Programa paradigmas:true
+Calculos matematicos:true
+Crear portafolio:false
